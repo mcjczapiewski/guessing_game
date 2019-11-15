@@ -54,6 +54,8 @@ None
 - Pay attention to create not only readable but maintainable code as well.
 
 ## Starting repository
+
+Click here to clone your own Git repository:
 https://classroom.github.com/a/689-Yuec
 
 
