@@ -45,6 +45,7 @@ without changing any feature).
 ## General requirements
 
 
+None
 
 ## Hints
 - Always keep the features of the original code (don't even change a dot or newline).
@@ -58,4 +59,5 @@ https://classroom.github.com/a/689-Yuec
 
 ## Background materials
 - :exclamation: [Basics of clean code](https://learn.code.cool/codecool-graph/#/../pages/general/clean-code)
-- :exclamation: [Refactoring in action](https://learn.code.cool/progbasics/#/../pages/general/refactoring-in-action)
+- :exclamation: [Refactoring in action](https://learn.code.cool/codecool-graph/#/../pages/general/refactoring-in-action)
+- :exclamation: About [nice commit messages](https://chris.beams.io/posts/git-commit/)
