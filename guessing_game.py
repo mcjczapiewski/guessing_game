@@ -1,5 +1,3 @@
-
-import math
 import random
 random_ints_1to99 = []
 random_ints_1to99.append(random.randint(1, 99))
